@@ -41,3 +41,5 @@ dist/
 
 # git
 .git-credentials
+.DS_Store
+.vscode/
